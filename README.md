@@ -8,4 +8,4 @@ STOCK GET - Returns a list of every stored item with a unique id. (because for s
 
 STOCK POST - Accepts a Json body input from POST request. The app stores the input in memory with 'UseInMemoryDatabase'. Returns with the currently stored items.
 
-CHECKOUT - Not implemented (tried, but couldn't finish)
+CHECKOUT - It can return the change ammount.
